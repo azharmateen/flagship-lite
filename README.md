@@ -1,5 +1,8 @@
 # flagship-lite
 
+[![Built with Claude Code](https://img.shields.io/badge/Built%20with-Claude%20Code-blue?logo=anthropic&logoColor=white)](https://claude.ai/code)
+
+
 **Feature flags that live in your repo. No SaaS, no vendor lock-in.**
 
 Define flags in YAML, evaluate them locally with deterministic rollouts, and serve them via HTTP. Zero infrastructure required.
